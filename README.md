@@ -130,4 +130,3 @@ question: What are the key points discussed in this document?
 The system retrieves relevant document chunks and generates an answer.
 
 ---
-ull Stack Development
